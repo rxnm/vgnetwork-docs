@@ -1,7 +1,7 @@
 # Table of contents
 
 * [👋 Introduction](README.md)
-* [Table of Content](table-of-content.md)
+  * [Table of Content](readme/table-of-content.md)
 
 ## 🖥 Game Servers
 
