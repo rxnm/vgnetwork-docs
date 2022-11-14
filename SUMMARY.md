@@ -12,7 +12,7 @@
   * [Getting Started](game-servers/fivem/getting-started/README.md)
     * [Chat Commands](game-servers/fivem/getting-started/chat-commands.md)
     * [Keybinds](game-servers/fivem/getting-started/keybinds.md)
-    * [Radialmenu](game-servers/fivem/getting-started/radialmenu.md)
+    * [RadialMenu](game-servers/fivem/getting-started/radialmenu.md)
   * [Heists & Missions](game-servers/fivem/heists-and-missions/README.md)
     * [Betta Heist](game-servers/fivem/heists-and-missions/betta-heist.md)
   * [Items](game-servers/fivem/items.md)
