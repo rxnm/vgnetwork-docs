@@ -1,7 +1,7 @@
 # Repository Statistics/Info:
 
 ![Build Status](https://img.shields.io/badge/Build-Pass-green)
-![Release](https://img.shields.io/badge/Release-v0.0.1-red)
+![Release](https://img.shields.io/badge/Release-v0.1.9-red)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 ![Views](https://komarev.com/ghpvc/?username=rxnm&label=Views)
 
