@@ -1,6 +1,9 @@
-# [VGNetwork Docs](https://docs.vgnetwork.xyz/)
+# Repository Statistics/Info:
 
-[![Build Status](https://travis-ci.org/MilanAryal/milanaryal.github.io.svg?branch=master)](https://docs.vgnetwork.xyz/)
+![Build Status](https://img.shields.io/badge/Build-Pass-green)
+![Release](https://img.shields.io/badge/Release-v0.0.1-red)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+![Views](https://komarev.com/ghpvc/?username=rxnm&label=Views)
 
 The uncompiled [GitBook](https://www.gitbook.com/) source code for my website ([docs.vgnetwork.xyz](https://docs.vgnetwork.xyz/)).
 
