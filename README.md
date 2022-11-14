@@ -1,4 +1,4 @@
-# [VGNetwork](https://docs.vgnetwork.xyz/)
+# [VGNetwork Docs](https://docs.vgnetwork.xyz/)
 
 [![Build Status](https://travis-ci.org/MilanAryal/milanaryal.github.io.svg?branch=master)](https://docs.vgnetwork.xyz/)
 
