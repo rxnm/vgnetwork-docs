@@ -1,5 +1,6 @@
 ---
 description: Welcome aboard! VGNetwork is a gaming community...
+layout: landing
 ---
 
 # 👋 Introduction
