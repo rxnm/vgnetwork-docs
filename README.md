@@ -1,20 +1,16 @@
 ---
-description: Welcome aboard! VGNetwork is a gaming community...
 layout: landing
 ---
 
-# 👋 Introduction
+# 👋 Welcome to Vanguard!
 
-## Join the Community
+We are devoted game lovers who had an idea to come up with a community with our own hosted dedicated servers, Which include Fivem, ArmA 3, Space Engineers, and much more! We aim to have players around the world available to play at a moment's notice, whether it's on our servers or any other game in general, we are a community that accepts people from all walks of life! Everyone will be welcome at Vanguard, and we can't wait to meet and make some memories with you guys!
 
-The easiest way to get started with...
+As well as this we welcome content creators and possibly to our creator program, this can include Youtubers, Streamers, Instagram pages, Modders, and even Musicians.
 
-## License
+The best way to join us you ask? ANY of the below options should help!
 
-**VGNetwork Copyright (C) 2022 RyanM**
+**Discord**: [Click Here](https://discord.com/invite/Vgmmt3C)!
 
-This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+**Steam Group**: Coming Soon!
 
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License along with this program. If not, see [https://www.gnu.org/licenses/](https://www.gnu.org/licenses/)
