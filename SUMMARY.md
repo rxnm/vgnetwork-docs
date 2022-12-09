@@ -34,6 +34,7 @@
     * [Mining](game-servers/fivem/known-npcs/mining.md)
 * [Minecraft](game-servers/minecraft.md)
 * [Space Engineers](game-servers/space-engineers.md)
+* [Valheim](game-servers/valheim.md)
 
 ## ℹ Server Info
 
