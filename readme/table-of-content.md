@@ -1,4 +1,4 @@
-# Table of Content
+# Table of Contents
 
 * [ArmA 3](../game-servers/arma-3.md)
 * [DayZ](../game-servers/dayz.md)

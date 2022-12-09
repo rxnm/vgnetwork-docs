@@ -1,12 +1,13 @@
 # Table of contents
 
 * [👋 Welcome to Vanguard!](README.md)
-  * [Table of Contents](welcome-to-vanguard/table-of-content.md)
+  * [Table of Contents](readme/table-of-content.md)
 
 ## 🖥 Game Servers
 
 * [ArmA 3](game-servers/arma-3.md)
 * [DayZ](game-servers/dayz.md)
+* [Euro Truck Simulator 2](game-servers/euro-truck-simulator-2.md)
 * [Farming Simulator](game-servers/farming-simulator.md)
 * [FiveM](game-servers/fivem/README.md)
   * [Getting Started](game-servers/fivem/getting-started/README.md)
