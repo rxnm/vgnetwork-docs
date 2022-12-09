@@ -16,7 +16,7 @@
     * [RadialMenu](game-servers/fivem/getting-started/radialmenu.md)
   * [Heists & Missions](game-servers/fivem/heists-and-missions/README.md)
     * [Betta Heist](game-servers/fivem/heists-and-missions/betta-heist.md)
-  * [Items](game-servers/fivem/items.md)
+  * [Items of Interest](game-servers/fivem/items.md)
   * [Jobs](game-servers/fivem/jobs/README.md)
     * [Bus Driver](game-servers/fivem/jobs/bus-driver.md)
     * [EMS](game-servers/fivem/jobs/ems.md)
