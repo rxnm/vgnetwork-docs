@@ -10,7 +10,7 @@ As well as this we welcome content creators and possibly to our creator program,
 
 The best way to join us you ask? ANY of the below options should help!
 
-**Discord**: [Click Here](https://discord.com/invite/Vgmmt3C)
+**Discord**: [Click Here](https://discord.com/invite/Vgmmt3C)!
 
 **Steam Group**: Coming Soon!
 

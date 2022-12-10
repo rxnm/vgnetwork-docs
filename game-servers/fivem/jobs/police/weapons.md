@@ -1,10 +1,14 @@
 # Weapons
 
-Smart Taser....
+## Smart Taser
 
-## **Keybinds**:
+{% embed url="https://www.youtube.com/watch?v=xQcdUfkoBDU" %}
+Preview from London Studios.
+{% endembed %}
 
-|         Action         |     Key    |
+## **Keybinds**
+
+|         Action         |   Keybind  |
 | :--------------------: | :--------: |
 |      Reload Taser      |     "R"    |
 |      Enable Safety     |     "Z"    |
