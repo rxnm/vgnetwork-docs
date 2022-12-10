@@ -1,12 +1,14 @@
 # Weapons
 
-## Smart Taser
+## X26 Taser
+
+Smart Taser by London Studios provides an advanced and realistic taser experience with a host of features such as a fully synced laser sight and flashlight.
 
 {% embed url="https://www.youtube.com/watch?v=xQcdUfkoBDU" %}
 Preview from London Studios.
 {% endembed %}
 
-## **Keybinds**
+#### **Keybinds:**
 
 |         Action         |   Keybind  |
 | :--------------------: | :--------: |
