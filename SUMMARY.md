@@ -26,6 +26,7 @@
     * [Police](game-servers/fivem/jobs/police/README.md)
       * [MDT & Dispatch](game-servers/fivem/jobs/police/mdt-and-dispatch.md)
       * [Radar](game-servers/fivem/jobs/police/radar.md)
+      * [Weapons](game-servers/fivem/jobs/police/weapons.md)
     * [Taxi](game-servers/fivem/jobs/taxi.md)
     * [Tow Truck](game-servers/fivem/jobs/tow-truck.md)
     * [Trucker](game-servers/fivem/jobs/trucker.md)
