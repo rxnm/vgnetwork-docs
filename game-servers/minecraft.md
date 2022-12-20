@@ -30,6 +30,10 @@ When you first open the game, click on (**Multiplayer**) and then (**Add Server*
 
 This pack is still a work in progress and as such is unfinished. We're constantly working on and looking for mods that would work well with the style that we're trying to achieve while trying to balance out what's already there. While we're also more than happy to take suggestions from our community.
 
+{% hint style="info" %}
+_When either Minecraft, Forge, or our ModPack are updated we shall mention so within our Discord under the Minecraft discord channel._
+{% endhint %}
+
 ### Shaders
 
 If you wish to use the Shaders that come with the Modpack then you are going to have to download **Optifine** which is a client-side mod. Download the recommended version that our server accepts right [here](http://adfoc.us/serve/?id=47525085805849). Upon downloading that file move head over to your Minecraft directory and place it inside of your mods folder, then you should be good to go. When you are in-game just open your video settings and load your chosen shaders.&#x20;
