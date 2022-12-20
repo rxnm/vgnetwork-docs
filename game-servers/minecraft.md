@@ -12,11 +12,17 @@ To connect to our Minecraft server you will first have to update your Minecraft 
 
 You can always do all of this automatically by using the [CurseForge App](https://download.curseforge.com/) which will update your Minecraft, Forge, and our Modpack automatically. Once you have installed the CurseForge App you can download our Modpack which can be found on CurseForge [here](https://www.curseforge.com/minecraft/modpacks/vanguard-smp).
 
+You can install the Modpack through the CurseForge website as shown in the image below.
+
+<figure><img src="../.gitbook/assets/install_with_curseforge.png" alt=""><figcaption></figcaption></figure>
+
+Or simply through the CurseForge App, search for (Vanguard) and when you find our Modpack press the install button and it will do everything for you, then once it is complete press play and then refer to the information below.
+
 ### Server Information
 
 When you first open the game, click on (Multiplayer) and then (Add Server). Under where it says (Server Name) you can put what you want here, I will use (Vanguard Server) for example, then on the second line (Server Address) you can put our domain (vgnserver.xyz) as shown below.
 
-<figure><img src="../.gitbook/assets/mc_serverinfo.png" alt=""><figcaption><p><em>Add Server Example.</em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/mc_serverinfo.png" alt=""><figcaption></figcaption></figure>
 
 ### Information
 
