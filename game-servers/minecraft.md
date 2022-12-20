@@ -1,5 +1,11 @@
 # Minecraft
 
-<figure><img src="../.gitbook/assets/mc_banner (1).png" alt="test"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/mc_banner (1).png" alt=""><figcaption></figcaption></figure>
 
-WORDS...
+#### Server Information:
+
+**Name**: Vanguard SMP
+
+**Connection**: vgnserver.xyz
+
+**Current Server Game Version**: 1.19.2
