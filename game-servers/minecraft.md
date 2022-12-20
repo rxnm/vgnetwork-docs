@@ -8,9 +8,11 @@ Current Version Info - Minecraft: <mark style="color:yellow;">1.19.2</mark> | Fo
 
 ### Getting Started
 
-To connect to our Minecraft server you will first have to update your Minecraft to the version that our server is currently using, this can be done through the Minecraft launcher. Then you will need to download the [Forge version](https://adfoc.us/serve/sitelinks/?id=271228\&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.2.0/forge-1.19.2-43.2.0-installer.jar) we are using too, specifically, the one stated in our _(Current Version Info)_ or it will not work. Finally, you will then have to download the correct version of the [Modpack](https://www.mediafire.com/file/44qy3j3cs5jrcq8/Vanguard-SMP-v01a.zip/file) we are using, once again stated above.
+To connect to our Minecraft server you will first have to update your Minecraft to the version that our server is currently using, this can be done through the Minecraft launcher. Then you will need to download the ModPack & Forge we use on our server, there are two ways you can do this, manually or automatically.
 
-You can always do all of this automatically by using the [CurseForge App](https://download.curseforge.com/) which will update your Minecraft, Forge, and our Modpack automatically. Once you have installed the CurseForge App you can download our Modpack which can be found on CurseForge [here](https://www.curseforge.com/minecraft/modpacks/vanguard-smp).
+**Manually**: Download the correct [Forge version](https://adfoc.us/serve/?id=27122885864802) we are using specifically the one stated in our _(Current Version Info)_ or it will not work. Finally, you will then have to download the correct version of the [Modpack](https://www.mediafire.com/file/44qy3j3cs5jrcq8/Vanguard-SMP-v01a.zip/file) we are using, once again info on the Modpack we are on is stated above.
+
+**Automatically**: Download the [CurseForge App](https://download.curseforge.com/) which will update your Minecraft, Forge, and our Modpack automatically. Once you have installed the CurseForge App you can download our Modpack which can be found on CurseForge [here](https://www.curseforge.com/minecraft/modpacks/vanguard-smp).
 
 When you have found our Modpack on CurseForge look towards the right and you will see an Install button _(as shown in the image below)_ which will connect to your CurseForge App installing it automatically.
 
