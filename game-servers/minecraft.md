@@ -3,16 +3,16 @@
 <figure><img src="../.gitbook/assets/mc_banner (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-Current Version Info - Minecraft: <mark style="color:yellow;">1.19.2</mark> | Forge: <mark style="color:yellow;">43.2.0</mark> | Modpack: <mark style="color:yellow;">01a</mark>
+**Current Version Info** - Minecraft: <mark style="color:yellow;">1.19.2</mark> | Forge: <mark style="color:yellow;">43.2.0</mark> | Modpack: <mark style="color:yellow;">01a</mark>
 {% endhint %}
 
 ### Getting Started
 
-To connect to our Minecraft server you will first have to update your Minecraft to the version that our server is currently using, this can be done through the Minecraft launcher. Then you will need to download the correct <mark style="color:yellow;">**ModPack**</mark> & <mark style="color:yellow;">**Forge**</mark> versions that we are currently using, there are two ways you can do this, either manually or automatically.
+To connect to our Minecraft server you will first have to update your Minecraft to the version that our server is currently using, this can be done through the Minecraft launcher. Then you will need to download the correct ModPack & Forge versions that we are currently using, there are two ways you can do this, either manually or automatically.
 
-<mark style="color:yellow;">**Manually**</mark>: Download the correct [Forge](https://adfoc.us/serve/?id=27122885864802) & [Modpack](https://www.mediafire.com/file/0h7hosmw75ukxg4/Minecraft.zip/file) version(s) we are using specifically the one stated in the _(Current Version Info)_ above or it will not work. Install Forge as you would do usually, double click, and let it do its thing, once that is done then download the Modpack and put the "mods" folder inside of your main Minecraft directory, overwrite if asked to do so.
+**Manually**: Download the correct [Forge](https://adfoc.us/serve/?id=27122885864802) & [Modpack](https://www.mediafire.com/file/0h7hosmw75ukxg4/Minecraft.zip/file) version(s) we are using specifically the one stated in the _(Current Version Info)_ above or it will not work. Install Forge as you would do usually, double click, and let it do its thing, once that is done then download the Modpack and put the "mods" folder inside of your main Minecraft directory, overwrite if asked to do so.
 
-<mark style="color:yellow;">**Automatically**</mark>: Download the [CurseForge App](https://download.curseforge.com/) which will update your Minecraft, Forge, and our Modpack automatically. Once you have installed the CurseForge App you can download our Modpack which can be found on CurseForge [here](https://www.curseforge.com/minecraft/modpacks/vanguard-smp).
+**Automatically**: Download the [CurseForge App](https://download.curseforge.com/) which will update your Minecraft, Forge, and our Modpack automatically. Once you have installed the CurseForge App you can download our Modpack which can be found on CurseForge [here](https://www.curseforge.com/minecraft/modpacks/vanguard-smp).
 
 When you have found our Modpack on CurseForge look towards the right and you will see an Install button _(as shown in the image below)_ which will connect to your CurseForge App installing it automatically.
 
@@ -22,7 +22,7 @@ Or simply through the CurseForge App, by searching for "Vanguard", and when you 
 
 ### Server Information
 
-When you first open the game, click on (<mark style="color:yellow;">**Multiplayer**</mark>) and then (<mark style="color:yellow;">**Add Server**</mark>). Under where it says (<mark style="color:yellow;">**Server Name**</mark>) you can put what you want here, I will use (<mark style="color:yellow;">**Vanguard Server**</mark>) for example, then on the second line (<mark style="color:yellow;">**Server Address**</mark>) you can put our domain (<mark style="color:yellow;">**vgnserver.xyz**</mark>) as shown below.
+When you first open the game, click on (**Multiplayer**) and then (**Add Server**). Under where it says (**Server Name**) you can put what you want here, I will use (**Vanguard Server**) for example, then on the second line (**Server Address**) you can put our domain (**vgnserver.xyz**) as shown below.
 
 <figure><img src="../.gitbook/assets/mc_serverinfo.png" alt=""><figcaption></figcaption></figure>
 
@@ -32,6 +32,6 @@ This pack is still a work in progress and as such is unfinished. We're constantl
 
 ### Shaders
 
-If you wish to use the Shaders that come with the Modpack then you are going to have to download <mark style="color:yellow;">**Optifine**</mark> which is a client-side mod. Download the recommended version that our server accepts right [here](http://adfoc.us/serve/?id=47525085805849). Upon downloading that file move head over to your Minecraft directory and place it inside of your mods folder, then you should be good to go. When you are in-game just open your video settings and load your chosen shaders.&#x20;
+If you wish to use the Shaders that come with the Modpack then you are going to have to download **Optifine** which is a client-side mod. Download the recommended version that our server accepts right [here](http://adfoc.us/serve/?id=47525085805849). Upon downloading that file move head over to your Minecraft directory and place it inside of your mods folder, then you should be good to go. When you are in-game just open your video settings and load your chosen shaders.&#x20;
 
-_We highly recommend the (<mark style="color:yellow;">**Complementary Shaders**</mark>) pack._
+_We highly recommend the (_**Complementary Shaders**_) pack._
