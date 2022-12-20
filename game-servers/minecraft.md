@@ -27,3 +27,7 @@ When you first open the game, click on (Multiplayer) and then (Add Server). Unde
 ### Information
 
 This pack is still a work in progress and as such is unfinished. We're constantly working on and looking for mods that would work well with the style that we're trying to achieve while trying to balance out what's already there. While we're also more than happy to take suggestions from our community.
+
+### Shaders
+
+If you wish to use the Shaders that come with the Modpack then you are going to have to download Optifine which is a client-side mod, you can down the recommended version we allow [here](http://adfoc.us/serve/sitelinks/?id=475250\&url=http://optifine.net/adloadx?f=preview\_OptiFine\_1.19.2\_HD\_U\_I1\_pre4.jar\&x=8a16), put that into your mods folder, and you are then all good to go. When you are in-game just open your video settings and load your chosen Shaders, highly recommended are the (Complementary Shaders)
