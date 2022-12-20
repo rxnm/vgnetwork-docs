@@ -2,10 +2,8 @@
 
 <figure><img src="../.gitbook/assets/mc_banner (1).png" alt=""><figcaption></figcaption></figure>
 
-#### Server Information:
+{% hint style="warning" %}
+Current Game/Server Version: 1.19.2
+{% endhint %}
 
-**Name**: Vanguard SMP
-
-**Connection**: vgnserver.xyz
-
-**Current Server Game Version**: 1.19.2
+Words
