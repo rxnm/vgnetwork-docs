@@ -20,4 +20,4 @@ When you first open the game, click on (Multiplayer) and then (Add Server). Unde
 
 ### Information
 
-Words
+This pack is still a work in progress and as such is unfinished. We're constantly working on and looking for mods that would work well with the style that we're trying to achieve while trying to balance out what's already there. While we're also more than happy to take suggestions from our community.
