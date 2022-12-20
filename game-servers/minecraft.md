@@ -16,7 +16,7 @@ You can always do all of this automatically by using the [CurseForge App](https:
 
 When you first open the game, click on (Multiplayer) and then (Add Server). Under where it says (Server Name) you can put what you want here, I will use (Vanguard Server) for example, then on the second line (Server Address) you can put our domain (vgnserver.xyz) as shown below.
 
-<figure><img src="../.gitbook/assets/mc_serverinfo.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/mc_serverinfo.png" alt=""><figcaption><p><em>Add Server Example.</em></p></figcaption></figure>
 
 ### Information
 
