@@ -30,4 +30,4 @@ This pack is still a work in progress and as such is unfinished. We're constantl
 
 ### Shaders
 
-If you wish to use the Shaders that come with the Modpack then you are going to have to download **Optifine** which is a client-side mod, you can down the recommended version we allow [here](http://adfoc.us/serve/sitelinks/?id=475250\&url=http://optifine.net/adloadx?f=preview\_OptiFine\_1.19.2\_HD\_U\_I1\_pre4.jar\&x=8a16), upon downloading put that into your mods folder, and you are then good to go. When you are in-game just open your video settings and load your chosen Shaders, we highly recommend the (**Complementary Shaders**) pack.
+If you wish to use the Shaders that come with the Modpack then you are going to have to download **Optifine** which is a client-side mod. Download the recommended version that our server accepts right [here](http://adfoc.us/serve/?id=47525085805849). Upon downloading that file move head over to your Minecraft directory and place it inside of your mods folder, then you should be good to go. When you are in-game just open your video settings and load your chosen Shaders, we highly recommend the (**Complementary Shaders**) pack.
