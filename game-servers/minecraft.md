@@ -3,7 +3,7 @@
 <figure><img src="../.gitbook/assets/mc_banner (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-**Current Version Info** - Minecraft: <mark style="color:yellow;">1.19.2</mark> | Forge: <mark style="color:yellow;">43.2.0</mark> | ModPack: <mark style="color:yellow;">01a</mark>
+**Current Version Info** - Minecraft: <mark style="color:yellow;">1.19.2</mark> | Forge: <mark style="color:yellow;">43.2.0</mark> | ModPack: <mark style="color:yellow;">0.1.1</mark>
 {% endhint %}
 
 ### Getting Started
@@ -14,11 +14,13 @@ To connect to our Minecraft server you will first have to update your Minecraft 
 
 **Automatically**: Download the [CurseForge App](https://download.curseforge.com/) which will update your Minecraft, Forge, and our ModPack automatically. Once you have installed the CurseForge App you can download our ModPack which can be found on CurseForge [here](https://www.curseforge.com/minecraft/modpacks/vanguard-smp).
 
-When you have found our ModPack on CurseForge look towards the right and you will see an Install button _(as shown in the image below)_ which will connect to your CurseForge App installing it automatically.
+When you have found our ModPack on CurseForge look towards the right and you will see an Install button _(as shown below)_ which will connect to your CurseForge App installing it automatically.
 
 <figure><img src="../.gitbook/assets/install_with_curseforge.png" alt=""><figcaption></figcaption></figure>
 
-Or simply through the CurseForge App, by searching for "Vanguard", and when you find our ModPack press the install button and it will do everything for you. Once that is complete press play and then refer to the information below for connecting to our server.
+Or simply through the CurseForge App, by searching for "Vanguard", and when you find our ModPack press the install button _(as shown below)_ and it will do everything for you. Once that is complete press play and then refer to the information below for connecting to our server.
+
+<figure><img src="../.gitbook/assets/curseforge_install.png" alt=""><figcaption></figcaption></figure>
 
 ### Server Information
 
