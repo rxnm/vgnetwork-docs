@@ -34,6 +34,7 @@
     * [Blackmarket Trader](game-servers/fivem/known-npcs/blackmarket-trader.md)
     * [Mining](game-servers/fivem/known-npcs/mining.md)
 * [Minecraft](game-servers/minecraft.md)
+* [Project Zomboid](game-servers/minecraft-1.md)
 * [Space Engineers](game-servers/space-engineers.md)
 * [Valheim](game-servers/valheim.md)
 
