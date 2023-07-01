@@ -1,7 +1,7 @@
 # Table of contents
 
 * [👋 Welcome to Vanguard!](README.md)
-  * [Table of Contents](readme/table-of-content.md)
+  * [Current Game Servers](readme/table-of-content.md)
 
 ## 🖥 Game Servers
 
