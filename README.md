@@ -10,7 +10,8 @@ As well as this we welcome content creators and possibly to our creator program,
 
 The best way to join us you ask? ANY of the below options should help!
 
-**Discord**: ([Secure Link](https://discord.com/invite/Vgmmt3C))
+Discord | Steam Group | Web Status
 
-**Steam Group**: ([Secure Link](https://steamcommunity.com/groups/vgnetworkx))
-
+```
+// Discord | Steam Group | Web Status
+```
