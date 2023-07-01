@@ -1,4 +1,10 @@
-# Current Game Servers
+---
+description: >-
+  Vanguard currently has a vast range or game servers and we plan to add more in
+  the future, we mostly focus on multiplayer & moddable games.
+---
+
+# Our Game Servers
 
 * [ArmA 3](../game-servers/arma-3.md)
 * [DayZ](../game-servers/dayz.md)
