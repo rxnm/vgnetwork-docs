@@ -1,7 +1,5 @@
 ---
-description: >-
-  Here you can find information on the employment opportunities we offer in
-  Vanguard RP.
+description: Information on the employment opportunities we offer in Vanguard RP.
 ---
 
 # Employment
