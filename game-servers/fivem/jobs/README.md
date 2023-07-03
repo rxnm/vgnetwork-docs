@@ -1,3 +1,9 @@
+---
+description: >-
+  Here you can find information on the employment opportunities we offer in
+  Vanguard RP.
+---
+
 # Employment
 
 * [Bus Driver](bus-driver.md)
