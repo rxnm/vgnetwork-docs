@@ -41,4 +41,3 @@
 ## ℹ Server Info
 
 * [Changelog](server-info/changelog.md)
-* [Rules](server-info/rules.md)
