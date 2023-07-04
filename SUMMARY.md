@@ -1,8 +1,6 @@
 # Table of contents
 
 * [👋 Welcome to Vanguard!](README.md)
-  * [Start Here](welcome-to-vanguard/start-here/README.md)
-    * [TeamSpeak](welcome-to-vanguard/start-here/teamspeak.md)
   * [Our Game Servers](readme/table-of-content.md)
 
 ## 🖥 Game Servers
@@ -42,4 +40,5 @@
 
 ## ℹ Server Info
 
+* [TeamSpeak](server-info/teamspeak.md)
 * [Changelog](server-info/changelog.md)
