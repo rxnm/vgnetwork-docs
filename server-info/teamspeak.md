@@ -2,6 +2,4 @@
 
 This is a placeholder and is being worked on for now.
 
-Our TeamSpeak server address is vgnserver.xyz[^1]
-
-[^1]: 
+Our TeamSpeak server address is **vgnserver.xyz**
