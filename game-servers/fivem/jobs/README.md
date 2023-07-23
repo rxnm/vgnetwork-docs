@@ -4,6 +4,10 @@ description: Information on the employment opportunities we offer in Vanguard RP
 
 # Employment
 
+
+
+### Beginning Your Career
+
 Upon joining Vanguard RP you will be unemployed with 2 basic items, an ID Card and a Phone and if you wish to further progress in the game you will need to choose wisely between either getting a legitimate job or living a life of crime.  &#x20;
 
 If you wish to get employed from the start then you will first need to make your way to the City Hall where you will find the NPC you need to speak to.
@@ -17,6 +21,8 @@ Upon speaking to the NPC you will be given two options, (Identity) and (Employme
 Employment is the option you should choose right now. As shown below you will be given a list of available jobs you can apply for (Police & EMS are whitelisted jobs only).
 
 <figure><img src="../../../.gitbook/assets/Screenshot_2.jpg" alt="" width="375"><figcaption><p>Availble Eploment Options.</p></figcaption></figure>
+
+### Employment Options
 
 * [Bus Driver](bus-driver.md)
 * [Car Dealer](bus-driver-1.md)
