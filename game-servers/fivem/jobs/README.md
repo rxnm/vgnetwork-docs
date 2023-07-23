@@ -11,7 +11,7 @@ Upon joining **Vanguard RP** you will be unemployed with 2 basic items, an **ID 
 If you wish to get employed from the start then you will first need to make your way to the **City Hall** where you will find the NPC you need to speak to.
 
 {% hint style="info" %}
-_To easily find the **City Hall** you can use the chat command **/postal 8155** which will give you the waypoint._
+_To easily find the **City Hall** you can use the chat command **/postal 8155** which will then give you the direct waypoint._
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/Screenshot_6.jpg" alt="" width="213"><figcaption><p><em>NPC at the City Hall.</em></p></figcaption></figure>
