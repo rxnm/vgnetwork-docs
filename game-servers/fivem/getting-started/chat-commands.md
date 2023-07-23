@@ -1,5 +1,7 @@
 # Commands
 
+_All in-game commands need to be entered EXACTLY like they are below. For instance, if the title says /e crossarms that means in the game, you will need to physically press your T button and type “/e crossarms”. Doing so, your character would cross their arms! Enjoy this extensive list of commands, and learn some new things that will open HUGE quality-of-life additions to your time in the city! This is constantly being updated, and always available for players! So make sure to check back in periodically as we are constantly updating Vanguard RP!_
+
 ### Critical Commands to Fix Typical Issues
 
 /fixdoors - _Door not working or unlocking on your house, business, etc.? Use this command to **refresh the doors**!_
