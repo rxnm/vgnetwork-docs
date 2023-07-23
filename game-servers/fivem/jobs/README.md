@@ -31,7 +31,7 @@ Employment is the option you should choose right now. As shown below you will be
 * [Cleaner](bus-driver-2.md)
 * [EMS](ems.md)
 * [Garbage Collector](garbage-collector.md)
-* [Gruppe 6 Security Guard](bus-driver-3.md)
+* [G6 Security Guard](bus-driver-3.md)
 * [Hot Dog Seller](hot-dog-stand.md)
 * [Lawyer](hot-dog-stand-1.md)
 * [Law Enforcement](police/)
