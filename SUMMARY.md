@@ -11,7 +11,7 @@
 * [Farming Simulator](game-servers/farming-simulator.md)
 * [FiveM](game-servers/fivem/README.md)
   * [Getting Started](game-servers/fivem/getting-started/README.md)
-    * [Chat Commands](game-servers/fivem/getting-started/chat-commands.md)
+    * [Commands](game-servers/fivem/getting-started/chat-commands.md)
     * [Keybinds](game-servers/fivem/getting-started/keybinds.md)
     * [RadialMenu](game-servers/fivem/getting-started/radialmenu.md)
   * [Employment](game-servers/fivem/jobs/README.md)
