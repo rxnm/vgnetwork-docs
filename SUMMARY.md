@@ -20,7 +20,7 @@
     * [Cleaner](game-servers/fivem/jobs/bus-driver-2.md)
     * [EMS](game-servers/fivem/jobs/ems.md)
     * [Garbage Collector](game-servers/fivem/jobs/garbage-collector.md)
-    * [Gruppe 6 Security Guard](game-servers/fivem/jobs/bus-driver-3.md)
+    * [G6 Security Guard](game-servers/fivem/jobs/bus-driver-3.md)
     * [Hot Dog Seller](game-servers/fivem/jobs/hot-dog-stand.md)
     * [Lawyer](game-servers/fivem/jobs/hot-dog-stand-1.md)
     * [Mechanic](game-servers/fivem/jobs/bus-driver-4.md)
