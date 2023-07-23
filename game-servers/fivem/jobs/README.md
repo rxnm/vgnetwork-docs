@@ -4,13 +4,15 @@ description: Information on the employment opportunities we offer in Vanguard RP
 
 # Employment
 
-
-
 ### Beginning Your Career
 
 Upon joining Vanguard RP you will be unemployed with 2 basic items, an ID Card and a Phone and if you wish to further progress in the game you will need to choose wisely between either getting a legitimate job or living a life of crime.  &#x20;
 
 If you wish to get employed from the start then you will first need to make your way to the City Hall where you will find the NPC you need to speak to.
+
+{% hint style="info" %}
+To easily find the City Hall you can /postal 8155 which will give you the waypoint.
+{% endhint %}
 
 <figure><img src="../../../.gitbook/assets/Screenshot_6.jpg" alt="" width="213"><figcaption><p>NPC at the City Hall.</p></figcaption></figure>
 
