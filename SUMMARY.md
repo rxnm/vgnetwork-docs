@@ -25,7 +25,7 @@
     * [Mechanic](game-servers/fivem/jobs/bus-driver-3.md)
     * [News Reporter](game-servers/fivem/jobs/news-reporter.md)
     * [Parking Enforcer](game-servers/fivem/jobs/news-reporter-1.md)
-    * [Police Officer](game-servers/fivem/jobs/police/README.md)
+    * [Law Enforcement](game-servers/fivem/jobs/police/README.md)
       * [MDT & Dispatch](game-servers/fivem/jobs/police/mdt-and-dispatch.md)
       * [Radar](game-servers/fivem/jobs/police/radar.md)
       * [Weapons](game-servers/fivem/jobs/police/weapons.md)
