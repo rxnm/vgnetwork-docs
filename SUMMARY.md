@@ -34,6 +34,8 @@
     * [Taxi Driver](game-servers/fivem/employment/taxi.md)
     * [Tow Truck](game-servers/fivem/employment/tow-truck.md)
     * [Trucker](game-servers/fivem/employment/trucker.md)
+  * [Illegal Activities](game-servers/fivem/illegal-activities/README.md)
+    * [Weapon Serial Scratching](game-servers/fivem/illegal-activities/weapon-serial-scratching.md)
 * [Minecraft](game-servers/minecraft.md)
 * [Project Zomboid](game-servers/minecraft-1.md)
 * [Space Engineers](game-servers/space-engineers.md)

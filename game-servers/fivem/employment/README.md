@@ -22,7 +22,7 @@ Upon speaking to the NPC you will be given two options, (**Identity**) and (**Em
 
 Employment is the option you should choose right now. As shown below you will be given a list of available jobs you can apply for (_Police & EMS are whitelisted jobs only_).
 
-<figure><img src="../../../.gitbook/assets/Screenshot_2.jpg" alt="" width="375"><figcaption><p><em>Available Employment Options.</em></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_2 (1).jpg" alt="" width="375"><figcaption><p><em>Available Employment Options.</em></p></figcaption></figure>
 
 ### Employment Options
 
