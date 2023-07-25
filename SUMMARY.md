@@ -14,6 +14,7 @@
     * [Commands](game-servers/fivem/getting-started/chat-commands.md)
     * [Keybinds](game-servers/fivem/getting-started/keybinds.md)
     * [RadialMenu](game-servers/fivem/getting-started/radialmenu.md)
+    * [Vehicle Rental](game-servers/fivem/getting-started/vehicle-rental.md)
   * [Employment](game-servers/fivem/employment/README.md)
     * [Bus Driver](game-servers/fivem/employment/bus-driver.md)
     * [Car Dealer](game-servers/fivem/employment/car-dealer.md)
