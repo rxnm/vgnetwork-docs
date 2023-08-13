@@ -28,6 +28,7 @@
     * [News Reporter](game-servers/fivem/employment/news-reporter.md)
     * [Parking Enforcer](game-servers/fivem/employment/parking-enforcer.md)
     * [Law Enforcement](game-servers/fivem/employment/law-enforcement/README.md)
+      * [Branches](game-servers/fivem/employment/law-enforcement/branches.md)
       * [MDT & Dispatch](game-servers/fivem/employment/law-enforcement/mdt-and-dispatch.md)
       * [Radar](game-servers/fivem/employment/law-enforcement/radar.md)
       * [Weapons](game-servers/fivem/employment/law-enforcement/weapons.md)
