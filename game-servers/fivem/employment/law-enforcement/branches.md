@@ -12,15 +12,15 @@ The Los Santos Police Department is there to protect and serve the citizens of L
 
 **Station(s):**
 
-<p align="center"> 
-  Mission Row Police Department
-</p>
+ 
+                                                        Mission Row Police Department
+
 
 <figure><img src="../../../../.gitbook/assets/mrpd.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-<p align="center"> 
-  Postal /8047
-</p>
+ 
+                                                                Postal /8047
+
 
 **Specialist Divisions**
 
