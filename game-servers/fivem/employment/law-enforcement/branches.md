@@ -43,3 +43,24 @@ The Blaine County Sheriff's Office is there to protect and serve the citizens of
 [Apply Today](https://discord.gg/Vgmmt3C)
 
 **Station(s):**
+<p align="center">
+Sandy Shores Sheriff's Station
+</p>
+
+< IMAGE HERE >
+<p align="center">
+Postal /
+</p>
+
+**Specialist Divisions**
+
+* Motorcycle Division
+* Canine
+* Criminal Investigation Department
+* Task Force
+* Harbor Patrol
+* Winged Division
+* Search & Rescue
+* Special Weapons & Tactics
+
+=======================================================================
