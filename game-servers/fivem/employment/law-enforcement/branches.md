@@ -6,15 +6,15 @@
 Whitelisted
 {% endhint %}
 
-The Los Santos Police Department is there to protect and serve the citizens of Los Santos,
+The Los Santos Police Department is there to protect and serve the citizens of Los Santos.
 
-**Station(s)**
+**Station(s):**
 
-Mission Row Police Department
+                                               Mission Row Police Department
 
 <figure><img src="../../../../.gitbook/assets/mrpd.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-Postal /8047
+                                                      Postal /8047
 
 **Specialist Divisions**
 
