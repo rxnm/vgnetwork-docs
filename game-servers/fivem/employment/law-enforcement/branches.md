@@ -13,4 +13,14 @@ Mission Row Police Department
 
 Postal /8047
 
+**Specialist Divisions**
 
+  - Traffic Enforcement
+  - Canine
+  - Criminal Investigation Department
+  - Gang Enforcement Detail
+  - Aerial Operations
+  - METRO
+  - Special Weapons & Tactics
+
+    
