@@ -8,7 +8,7 @@ Whitelisted
 
 The Los Santos Police Department is there to protect and serve the citizens of Los Santos.
 
-[https://docs.google.com/forms/d/1AoDj2yNu85wVORq19Gf7AtIgPwBZyUb4SjTA2rTLZKs/edit] (Apply Today)
+Apply Today [Apply](https://docs.google.com/forms/d/1AoDj2yNu85wVORq19Gf7AtIgPwBZyUb4SjTA2rTLZKs/edit).
 
 **Station(s):**
 
