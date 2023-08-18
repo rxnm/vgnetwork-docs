@@ -64,3 +64,34 @@ Postal /
 * Special Weapons & Tactics
 
 =======================================================================
+
+**San Andreas Highway Patrol**
+
+{% hint style="info" %}
+Whitelisted
+{% endhint %}
+
+The San Andreas Highway Patrol is a specialized service there to enforce the law and protect the public on the roads of San Andreas.
+
+[Apply Today](https://discord.gg/Vgmmt3C)
+
+**Station(s):**
+<p align="center">
+TBC
+</p>
+
+< IMAGE HERE >
+<p align="center">
+Postal /
+</p>
+
+**Specialist Divisions**
+
+* Motorcycle Division
+* Canine
+* Criminal Investigation Department
+* Commercial Vehicle Service
+* Rotary Division
+* Special Weapons & Tactics
+
+=======================================================================
