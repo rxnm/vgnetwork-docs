@@ -1,6 +1,6 @@
 ---
 description: Information on the employment opportunities we offer in Vanguard RP.
-cover: ../../../.gitbook/assets/vg-docs-employment.png
+cover: ../../../.gitbook/assets/vg-docs-employment.jpg
 coverY: 0
 layout:
   cover:
