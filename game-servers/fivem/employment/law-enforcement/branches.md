@@ -61,7 +61,7 @@ The Blaine County Sheriff's Office is there to protect and serve the citizens of
 
 <figure><img src="../../../../.gitbook/assets/bcso-ssss.jpg" alt="" width="375"><figcaption><p>Sandy Shores Sheriff's Station.</p></figcaption></figure>
 
-To find this station you can use the chat command **/postal 0000**
+To find this station you can use the chat command **/postal 3004**
 
 **Specialist Divisions**
 
@@ -90,7 +90,7 @@ The San Andreas Highway Patrol is a specialized service there to enforce the law
 
 <figure><img src="../../../../.gitbook/assets/sahp-lsf.jpg" alt="" width="375"><figcaption><p>Los Santos Freeway Highway Patrol Station.</p></figcaption></figure>
 
-To find this station you can use the chat command **/postal 0000**
+To find this station you can use the chat command **/postal 7357**
 
 **Specialist Divisions**
 
