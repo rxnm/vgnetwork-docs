@@ -1,3 +1,22 @@
+---
+cover: ../../../../.gitbook/assets/vg-docs-branches.jpg
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Branches
 
 **Los Santos Police Department (LSPD)**
