@@ -14,3 +14,7 @@ layout:
 
 # Normal Activities
 
+WIP WIP WIP WIP WIP
+
+* [Fishing](fishing.md)
+* [Mining](mining.md)
