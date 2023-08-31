@@ -17,9 +17,3 @@ layout:
 * [Chat Commands](chat-commands.md)
 * [Keybinds](keybinds.md)
 * [RadialMenu](radialmenu.md)
-
-{% embed url="https://docs.vgnetwork.xyz/game-servers/fivem/getting-started/chat-commands" %}
-
-{% embed url="https://docs.vgnetwork.xyz/game-servers/fivem/getting-started/keybinds" %}
-
-{% embed url="https://docs.vgnetwork.xyz/game-servers/fivem/getting-started/radialmenu" fullWidth="false" %}
