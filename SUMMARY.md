@@ -41,7 +41,7 @@
       * [Mining](game-servers/fivem/ways-to-make-money/normal-activities/mining.md)
     * [Illegal Activities](game-servers/fivem/ways-to-make-money/illegal-activities/README.md)
       * [Drugs](game-servers/fivem/ways-to-make-money/illegal-activities/drugs.md)
-      * [Weapon Serial Scratching](game-servers/fivem/ways-to-make-money/illegal-activities/weapon-serial-scratching.md)
+      * [Serial Scratching](game-servers/fivem/ways-to-make-money/illegal-activities/weapon-serial-scratching.md)
   * [Places of Interest](game-servers/fivem/places-of-interest/README.md)
     * [Hardware Store](game-servers/fivem/places-of-interest/hardware-store.md)
     * [Licenses](game-servers/fivem/places-of-interest/licenses.md)

@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Vehicle Rental
 
 Upon joining our server you will have very little apart from the clothes on your back and two items in your possession. If you want to get from A to B instead of walking everywhere then Vehicle Rental is your best choice for now unless you have the expenses for a Taxi.

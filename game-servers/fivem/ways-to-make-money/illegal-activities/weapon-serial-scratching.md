@@ -1,4 +1,18 @@
-# Weapon Serial Scratching
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# Serial Scratching
 
 If you have a weapon that has been used in an illegal activity such as a murder or robbery of some kind then you can make it harder for the (Law Enforcement) to know you were involved by scratching off the weapon serial. There is a location shown below where if you go there then you can do such for a fee.
 
