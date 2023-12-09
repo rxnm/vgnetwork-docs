@@ -3,18 +3,18 @@
 <figure><img src="../.gitbook/assets/mc_banner (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-**Current Version Info** - Minecraft: <mark style="color:yellow;">1.19.2</mark> | Forge: <mark style="color:yellow;">43.2.8</mark> | ModPack: <mark style="color:yellow;">0.1.6e</mark>
+**Current Version Info** - Minecraft: <mark style="color:yellow;">1.19.2</mark> | Forge: <mark style="color:yellow;">43.2.8</mark> | ModPack: <mark style="color:yellow;">0.1.7</mark>
 {% endhint %}
 
 ### Getting Started
 
 To connect to our Minecraft server you will first have to update your Minecraft to the version that our server is currently using, this can be done through the Minecraft launcher. Then you will need to download the correct ModPack & Forge versions that we are currently using, there are two ways you can do this, either manually or automatically.
 
-**Manually**: Download the correct [Forge](https://adfoc.us/serve/?id=27122890596267) & [ModPack](https://www.mediafire.com/file/jymxi1hcehy5rlm/Vanguard-SMP-0.1.6e.zip/file) version(s) we are using specifically the one stated in the _(Current Version Info)_ above or it will not work. Install Forge as you would do usually, double click, and let it do its thing, once that is done then download the ModPack and put the "mods" folder inside of your main Minecraft directory, overwrite if asked to do so.
+**Manually**: Download the correct [Forge](https://adfoc.us/serve/?id=27122890596267) & [ModPack](https://www.mediafire.com/file/46gc9umxe7qrf4v/Vanguard-SMP-0.1.7.zip/file) version(s) we are using specifically the one stated in the _(Current Version Info)_ above or it will not work. Install Forge as you would do usually, double click, and let it do its thing, once that is done download the ModPack and put the "mods" folder inside of your main Minecraft directory, overwrite if asked to do so.
 
 **Automatically**: Download the [CurseForge App](https://download.curseforge.com/) which will update your Minecraft, Forge, and our ModPack automatically. Once you have installed the CurseForge App you can download our ModPack which can be found on CurseForge [here](https://www.curseforge.com/minecraft/modpacks/vanguard-smp).
 
-When you have found our ModPack on CurseForge look towards the right and you will see an Install button _(as shown below)_ which will connect to your CurseForge App installing it automatically.
+When you have found our ModPack on CurseForge look towards the right and you will see an Install button _(as shown below)_ which will connect to your CurseForge App and install it automatically.
 
 <figure><img src="../.gitbook/assets/install_with_curseforge.png" alt=""><figcaption></figcaption></figure>
 
@@ -24,7 +24,7 @@ Or simply through the CurseForge App, by searching for "Vanguard", and when you 
 
 ### Server Information
 
-When you first open the game, click on (**Multiplayer**) and then (**Add Server**). Under where it says (**Server Name**) you can put what you want here, I will use (**Vanguard Server**) for example, then on the second line (**Server Address**) you can put our domain (**vgnserver.xyz**) as shown below.
+When you first open the game, click on (**Multiplayer**) and then (**Add Server**). Under where it says (**Server Name**) you can put what you want here, I will use (**Vanguard Server**) for example, then on the second line (**Server Address**), you can put our domain (**vgnserver.xyz**) as shown below.
 
 <figure><img src="../.gitbook/assets/mc_serverinfo.png" alt=""><figcaption></figcaption></figure>
 
