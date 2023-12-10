@@ -38,6 +38,6 @@ _When either Minecraft, Forge, or our ModPack are updated we shall mention so wi
 
 ### Shaders
 
-If you wish to use the Shaders that come with the Modpack then you are going to have to download **Optifine** which is a client-side mod. Download the recommended version that our server accepts right [here](http://adfoc.us/serve/?id=47525085805849). Upon downloading that file move head over to your Minecraft directory and place it inside of your mods folder, then you should be good to go. When you are in-game just open your video settings and load your chosen shaders.&#x20;
+If you wish to use the Shaders that come with the Modpack then you are going to have to download **Optifine** which is a client-side mod. Download the recommended version that our server accepts right [here](https://optifine.net/downloads). Upon downloading that file move head over to your Minecraft directory and place it inside of your mods folder, then you should be good to go. When you are in-game just open your video settings and load your chosen shaders.&#x20;
 
 _We highly recommend the (_**Complementary Shaders**_) pack._
