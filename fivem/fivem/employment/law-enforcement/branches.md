@@ -1,10 +1,5 @@
 ---
-cover: ../../../../../.gitbook/assets/vg-docs-branches.jpg
-coverY: 0
 layout:
-  cover:
-    visible: true
-    size: full
   title:
     visible: true
   description:
@@ -31,7 +26,7 @@ The Los Santos Police Department is there to protect and serve the citizens of L
 
 **Station(s):**
 
-<figure><img src="../../../../../.gitbook/assets/mrpd.jpg" alt="" width="375"><figcaption><p>Mission Row Police Department.</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/mrpd.jpg" alt="" width="375"><figcaption><p>Mission Row Police Department.</p></figcaption></figure>
 
 To find this station you can use the chat command **/postal 8047**
 
@@ -59,7 +54,7 @@ The Blaine County Sheriff's Office is there to protect and serve the citizens of
 
 **Station(s):**
 
-<figure><img src="../../../../../.gitbook/assets/bcso-ssss.jpg" alt="" width="375"><figcaption><p>Sandy Shores Sheriff's Station.</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/bcso-ssss.jpg" alt="" width="375"><figcaption><p>Sandy Shores Sheriff's Station.</p></figcaption></figure>
 
 To find this station you can use the chat command **/postal 3004**
 
@@ -88,7 +83,7 @@ The San Andreas Highway Patrol is a specialized service there to enforce the law
 
 **Station(s):**
 
-<figure><img src="../../../../../.gitbook/assets/sahp-lsf.jpg" alt="" width="375"><figcaption><p>Los Santos Freeway Highway Patrol Station.</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/sahp-lsf.jpg" alt="" width="375"><figcaption><p>Los Santos Freeway Highway Patrol Station.</p></figcaption></figure>
 
 To find this station you can use the chat command **/postal 7357**
 

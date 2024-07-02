@@ -1,11 +1,6 @@
 ---
 description: Employment Type - Bus Driver.
-cover: ../../../../.gitbook/assets/vg-docs-bus-driver.jpg
-coverY: 0
 layout:
-  cover:
-    visible: true
-    size: full
   title:
     visible: true
   description:

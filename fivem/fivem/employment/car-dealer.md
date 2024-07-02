@@ -1,11 +1,6 @@
 ---
 description: Employment Type - Car Dealer
-cover: ../../../../.gitbook/assets/vg-docs-car-dealer.jpg
-coverY: 0
 layout:
-  cover:
-    visible: true
-    size: full
   title:
     visible: true
   description:
