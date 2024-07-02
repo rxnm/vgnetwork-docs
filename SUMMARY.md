@@ -1,7 +1,7 @@
 # Table of contents
 
 * [🔠 Welcome!](README.md)
-  * [Our Game Servers](readme/table-of-content.md)
+  * [Our Game Servers](readme/our-game-servers.md)
 
 ## #️⃣ FiveM
 
