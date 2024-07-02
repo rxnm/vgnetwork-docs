@@ -1,6 +1,3 @@
----
-description: Coming Soon!
----
-
 # Emergency Roleplay
 
+<figure><img src="../.gitbook/assets/wip_page.jpg" alt=""><figcaption></figcaption></figure>
