@@ -1,8 +1,4 @@
----
-description: In this section you will find...
----
-
-# FiveM
+# Vanguard RP
 
 * [Getting Started](getting-started/)
 * [Employment](employment/)
