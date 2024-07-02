@@ -1,9 +1,9 @@
 # Table of contents
 
-* [👋 Welcome!](README.md)
+* [🔠 Welcome!](README.md)
   * [Our Game Servers](readme/table-of-content.md)
 
-## 🚓 FiveM
+## #️⃣ FiveM
 
 * [Emergency Roleplay](fivem/emergency-roleplay.md)
 * [Vanguard RP](fivem/vanguard-rp/README.md)
@@ -46,7 +46,7 @@
     * [Used Car Sales](fivem/vanguard-rp/places-of-interest/used-car-sales.md)
     * [Vehicle Rental](fivem/vanguard-rp/places-of-interest/vehicle-rental.md)
 
-## 🔫 Other Games
+## #️⃣ Other Games
 
 * [ArmA 3](other-games/arma-3.md)
 * [Minecraft](other-games/minecraft.md)
