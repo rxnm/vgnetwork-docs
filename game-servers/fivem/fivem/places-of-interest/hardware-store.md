@@ -16,4 +16,4 @@ layout:
 
 WIP WIP WIP WIP WIP
 
-<figure><img src="../../../.gitbook/assets/hardware_shop.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/hardware_shop.jpg" alt="" width="375"><figcaption></figcaption></figure>

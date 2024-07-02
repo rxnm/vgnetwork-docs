@@ -1,6 +1,6 @@
 ---
-description: Employment Type - Bus Driver.
-cover: ../../../.gitbook/assets/vg-docs-bus-driver.jpg
+description: Employment Type - Car Dealer
+cover: ../../../../.gitbook/assets/vg-docs-car-dealer.jpg
 coverY: 0
 layout:
   cover:
@@ -18,8 +18,8 @@ layout:
     visible: true
 ---
 
-# Bus Driver
+# Car Dealer
 
 {% hint style="info" %}
-Job Information: Wage ??&#x20;
+Job Information: Wage ??
 {% endhint %}

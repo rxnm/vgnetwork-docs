@@ -1,5 +1,5 @@
 ---
-cover: ../../../.gitbook/assets/vg-docs-licenses.jpg
+cover: ../../../../.gitbook/assets/vg-docs-licenses.jpg
 coverY: 0
 layout:
   cover:
@@ -24,7 +24,7 @@ WIP WIP WIP WIP WIP WIP WIP WIP\
 Driving License (postal 9071)\
 
 
-<figure><img src="../../../.gitbook/assets/driving_lessons.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/driving_lessons.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 \
 Weapon License\

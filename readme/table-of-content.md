@@ -18,5 +18,5 @@ layout:
 # Our Game Servers
 
 * [ArmA 3](../game-servers/arma-3.md)
-* [FiveM](../game-servers/fivem/)
+* [FiveM](../game-servers/fivem/fivem/)
 * [Minecraft](../game-servers/minecraft.md)
