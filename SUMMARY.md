@@ -46,6 +46,7 @@
       * [Leasure Gear Store](game-servers/fivem/fivem/places-of-interest/leasure-gear-store.md)
       * [Used Car Sales](game-servers/fivem/fivem/places-of-interest/used-car-sales.md)
       * [Vehicle Rental](game-servers/fivem/fivem/places-of-interest/vehicle-rental.md)
+  * [Emergency Roleplay](game-servers/fivem/emergency-roleplay.md)
 * [Minecraft](game-servers/minecraft.md)
 
 ## ℹ️ Server Info
