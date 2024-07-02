@@ -7,6 +7,6 @@ description: >-
 # Our Game Servers
 
 * [ArmA 3](../other-games/arma-3.md)
-* [Emergency Roleplay](../fivem/emergency-roleplay.md)
+* [Emergency Roleplay](broken-reference)
 * [Vanguard RP](../fivem/vanguard-rp/)
 * [Minecraft](../other-games/minecraft.md)
