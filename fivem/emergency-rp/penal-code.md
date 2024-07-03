@@ -9,3 +9,35 @@
 </div>
 
 ### San Andreas State Penal Code
+
+
+
+## General
+
+<table data-full-width="true"><thead><tr><th>Offence</th><th>Citation</th><th>Misdemeanor</th><th>Felony</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+***
+
+## Nusiance
+
+<table data-full-width="true"><thead><tr><th>Offence</th><th>CItation</th><th>Misdemeanor</th><th>Felony</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+***
+
+## Vehicular
+
+<table data-full-width="true"><thead><tr><th>Offence</th><th>Citation</th><th>Misdemeanor</th><th>Felony</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+***
+
+## Drugs
+
+<table data-full-width="true"><thead><tr><th>Offence</th><th>Citation</th><th>Misdemeanor</th><th>Felony</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+***
+
+## Weapons
+
+<table data-full-width="true"><thead><tr><th>Offence</th><th>CItation</th><th>Misdemeanor</th><th>Felony</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+***
