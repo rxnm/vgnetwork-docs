@@ -14,6 +14,7 @@
   * [Penal Code](fivem/emergency-rp/penal-code.md)
   * [Employment](fivem/emergency-rp/employment/README.md)
     * [Civilian Life](fivem/emergency-rp/employment/civilian-life/README.md)
+      * [Keybinds & Commands](fivem/emergency-rp/employment/civilian-life/keybinds-and-commands.md)
       * [Careers](fivem/emergency-rp/employment/civilian-life/careers/README.md)
         * [DOT](fivem/emergency-rp/employment/civilian-life/careers/dot/README.md)
           * [Depots](fivem/emergency-rp/employment/civilian-life/careers/dot/depots.md)

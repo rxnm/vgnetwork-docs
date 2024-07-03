@@ -12,34 +12,46 @@
 
 
 
-## General
+## Section 1 Violence Against Persons Act
+
+<table data-full-width="true"><thead><tr><th>Offence</th><th>Citation</th><th>Misdemeanor</th><th>Felony</th></tr></thead><tbody><tr><td>1.1 Assault</td><td></td><td></td><td></td></tr><tr><td>1.2 Battery</td><td></td><td></td><td></td></tr><tr><td>1.3 Resist Arrest</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+## Section 4 Nusiance Prevention Act
+
+<table data-full-width="true"><thead><tr><th>Offence</th><th>Citation</th><th>Misdemeanor</th><th>Felony</th></tr></thead><tbody><tr><td>1.1 Loitering</td><td></td><td></td><td></td></tr><tr><td>1.2 Disorderly Conduct</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+## Section 23 Protection From Criminal Damage Act
 
 <table data-full-width="true"><thead><tr><th>Offence</th><th>Citation</th><th>Misdemeanor</th><th>Felony</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
 
-## Nusiance
+## Section 20 Theft Prevention Act
 
-<table data-full-width="true"><thead><tr><th>Offence</th><th>CItation</th><th>Misdemeanor</th><th>Felony</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
+<table data-full-width="true"><thead><tr><th>Offence</th><th>Citation</th><th width="318">Misdemeanor</th><th>Felony</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
 
-## Vehicular
-
-<table data-full-width="true"><thead><tr><th>Offence</th><th>Citation</th><th>Misdemeanor</th><th>Felony</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
-
-## Drugs
+## Section 37 Vehicular Safety Act
 
 <table data-full-width="true"><thead><tr><th>Offence</th><th>Citation</th><th>Misdemeanor</th><th>Felony</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
 
-## Weapons
+## Section 18 Drugs Offenses Act
+
+<table data-full-width="true"><thead><tr><th>Offence</th><th>Citation</th><th>Misdemeanor</th><th>Felony</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+## Section 7 Safety of  Weapons Act
 
 <table data-full-width="true"><thead><tr><th>Offence</th><th>CItation</th><th>Misdemeanor</th><th>Felony</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
 
-## Aviation
+## Section 32 Offences Against Animals Act
 
 <table data-full-width="true"><thead><tr><th>Offence</th><th>CItation</th><th>Misdemeanor</th><th>Felony</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
 
-## Maritime
+## Section 54 Safety of Aviation Act
 
 <table data-full-width="true"><thead><tr><th>Offence</th><th>CItation</th><th>Misdemeanor</th><th>Felony</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
 
-## National Infrastructure
+## Section 66 Protective Maritime Act
 
 <table data-full-width="true"><thead><tr><th>Offence</th><th>CItation</th><th>Misdemeanor</th><th>Felony</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+## Section 51 National Infrastructure Defense Act
+
+<table data-full-width="true"><thead><tr><th>Offence</th><th>CItation</th><th>Misdemeanor</th><th>Felony</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr><tr><td>Face Concealment on Military Installation </td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
