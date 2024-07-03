@@ -24,18 +24,18 @@ The USMS vehicles have an integrated script for their lights which allows player
 
 <div>
 
-<figure><img src="../../../../../.gitbook/assets/marshal1.PNG" alt=""><figcaption><p>Marshal1</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/marshal1.PNG" alt="" width="563"><figcaption><p>Marshal1</p></figcaption></figure>
 
  
 
-<figure><img src="../../../../../.gitbook/assets/marshal2.PNG" alt=""><figcaption><p>Marshal2</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/marshal2.PNG" alt="" width="563"><figcaption><p>Marshal2</p></figcaption></figure>
 
  
 
-<figure><img src="../../../../../.gitbook/assets/marshal3.PNG" alt=""><figcaption><p>Marshal3</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/marshal3.PNG" alt="" width="563"><figcaption><p>Marshal3</p></figcaption></figure>
 
  
 
-<figure><img src="../../../../../.gitbook/assets/marshal4.PNG" alt=""><figcaption><p>Marshal4</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/marshal4.PNG" alt="" width="563"><figcaption><p>Marshal4</p></figcaption></figure>
 
 </div>
