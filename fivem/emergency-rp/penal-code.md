@@ -31,3 +31,15 @@
 ## Weapons
 
 <table data-full-width="true"><thead><tr><th>Offence</th><th>CItation</th><th>Misdemeanor</th><th>Felony</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+## Aviation
+
+<table data-full-width="true"><thead><tr><th>Offence</th><th>CItation</th><th>Misdemeanor</th><th>Felony</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+## Maritime
+
+<table data-full-width="true"><thead><tr><th>Offence</th><th>CItation</th><th>Misdemeanor</th><th>Felony</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+## National Infrastructure
+
+<table data-full-width="true"><thead><tr><th>Offence</th><th>CItation</th><th>Misdemeanor</th><th>Felony</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
