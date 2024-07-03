@@ -6,6 +6,8 @@
 ## #️⃣ FiveM
 
 * [Emergency RP](fivem/emergency-rp/README.md)
+  * [Server Information](fivem/emergency-rp/server-information/README.md)
+    * [Change Log](fivem/emergency-rp/server-information/change-log.md)
   * [Getting Started](fivem/emergency-rp/getting-started/README.md)
     * [Character Creation](fivem/emergency-rp/getting-started/character-creation.md)
     * [Commands](fivem/emergency-rp/getting-started/commands.md)
