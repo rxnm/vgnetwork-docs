@@ -6,7 +6,7 @@ description: Federal Investigation Bureau
 
 ## About
 
-The Federal Investigation Bureau is the domestic intelligence and security service of the United States and its principal federal law enforcement agency.
+**The Federal Investigation Bureau is the domestic intelligence and security service of the United States and its principal federal law enforcement agency.**
 
 ## Headquarters
 
