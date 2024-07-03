@@ -5,7 +5,7 @@ description: International Affairs Agency
 # IAA
 
 {% hint style="info" %}
-Admin Role ONLY
+This role is currently only utilised by Admins
 {% endhint %}
 
 ## About
