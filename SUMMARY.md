@@ -65,7 +65,7 @@
       * [Careers](fivem/emergency-rp/employment/military/careers/README.md)
         * [ARNG](fivem/emergency-rp/employment/military/careers/arng.md)
         * [USCG](fivem/emergency-rp/employment/military/careers/uscg.md)
-        * [USAFSS](fivem/emergency-rp/employment/military/careers/usafss.md)
+        * [USAFSF](fivem/emergency-rp/employment/military/careers/usafsf.md)
         * [USAF](fivem/emergency-rp/employment/military/careers/usaf.md)
 * [Vanguard RP](fivem/vanguard-rp/README.md)
   * [Getting Started](fivem/vanguard-rp/getting-started/README.md)
