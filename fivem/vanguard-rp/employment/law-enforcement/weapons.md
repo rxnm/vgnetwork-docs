@@ -24,12 +24,4 @@ Preview from London Studios.
 
 #### **Keybinds:**
 
-|         Action         |   Keybind  |
-| :--------------------: | :--------: |
-|      Reload Taser      |     "R"    |
-|      Enable Safety     |     "Z"    |
-|   Enable Laser Sight   |     "E"    |
-|    Enable Flashlight   |     "Q"    |
-|     Enable Arc Mode    |     "X"    |
-|  Select Left Cartridge |  "PAGEUP"  |
-| Select Right Cartridge | "PAGEDOWN" |
+<table><thead><tr><th width="366" align="center">Action</th><th align="center">Keybind</th></tr></thead><tbody><tr><td align="center">Reload Taser</td><td align="center">"R"</td></tr><tr><td align="center">Enable Safety</td><td align="center">"Z"</td></tr><tr><td align="center">Enable Laser Sight</td><td align="center">"E"</td></tr><tr><td align="center">Enable Flashlight</td><td align="center">"Q"</td></tr><tr><td align="center">Enable Arc Mode</td><td align="center">"X"</td></tr><tr><td align="center">Select Left Cartridge</td><td align="center">"PAGEUP"</td></tr><tr><td align="center">Select Right Cartridge</td><td align="center">"PAGEDOWN"</td></tr></tbody></table>
