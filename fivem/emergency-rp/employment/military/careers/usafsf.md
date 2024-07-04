@@ -1,5 +1,16 @@
 ---
 description: United States Air Force Security Forces
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
 ---
 
 # USAFSF
