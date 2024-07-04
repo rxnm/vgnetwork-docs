@@ -1,5 +1,16 @@
 ---
 description: National Office of Security Enforcement
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
 ---
 
 # NOOSE
