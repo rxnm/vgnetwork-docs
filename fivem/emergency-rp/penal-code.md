@@ -14,7 +14,7 @@
 
 ## Section 1 Violence Against Persons Act
 
-<table data-full-width="true"><thead><tr><th>Offence</th><th>Citation</th><th>Misdemeanor</th><th>Felony</th></tr></thead><tbody><tr><td>1.1 Assault</td><td>Up to $10,000</td><td>Up to 10 Years Imprisonment</td><td>Up to 25 Years Imprisonment</td></tr><tr><td>1.2 Battery</td><td>Up to $25,000</td><td>Up to 10 Years Imprisonment</td><td>Up to 25 Years Imprisonment</td></tr><tr><td>1.3 Resist Arrest</td><td>Up to $15,000</td><td>Up to 6 months Imprisonment</td><td></td></tr><tr><td>1.4 Obstruction of Justice</td><td>Up to $10,000</td><td>Up to 3 Years Imprisonment</td><td></td></tr><tr><td>1.5 Murder</td><td>N/A</td><td>N/A</td><td>Life Imprisonment</td></tr><tr><td>1.6 Attempt Murder</td><td>N/A</td><td>N/A</td><td>Minimum 25 Years Imprisonment</td></tr></tbody></table>
+<table data-full-width="true"><thead><tr><th>Offence</th><th>Citation</th><th>Misdemeanor</th><th>Felony</th></tr></thead><tbody><tr><td>1.1 Assault</td><td>Up to $10,000</td><td>Up to 10 Years Imprisonment</td><td>Up to 25 Years Imprisonment</td></tr><tr><td>1.2 Battery</td><td>Up to $25,000</td><td>Up to 10 Years Imprisonment</td><td>Up to 25 Years Imprisonment</td></tr><tr><td>1.3 Resist Arrest</td><td>Up to $15,000</td><td>Up to 6 months Imprisonment</td><td>N/A</td></tr><tr><td>1.4 Obstruction of Justice</td><td>Up to $10,000</td><td>Up to 3 Years Imprisonment</td><td>N/A</td></tr><tr><td>1.5 Murder</td><td>N/A</td><td>N/A</td><td>Life Imprisonment</td></tr><tr><td>1.6 Attempt Murder</td><td>N/A</td><td>N/A</td><td>Minimum 25 Years Imprisonment</td></tr></tbody></table>
 
 ## Section 4 Nusiance Prevention Act
 
