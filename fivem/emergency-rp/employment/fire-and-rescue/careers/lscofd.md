@@ -15,3 +15,12 @@ layout:
 
 # LSCoFD
 
+{% hint style="info" %}
+Application Status: CLOSED
+{% endhint %}
+
+## About
+
+
+
+## Headquarters

@@ -15,3 +15,12 @@ layout:
 
 # SanFire
 
+{% hint style="info" %}
+Application Status: CLOSED
+{% endhint %}
+
+## About
+
+
+
+## Headquarters
