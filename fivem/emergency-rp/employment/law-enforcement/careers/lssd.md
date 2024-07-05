@@ -15,7 +15,9 @@ layout:
 
 # LSSD
 
-> Application Status: CLOSED
+{% hint style="info" %}
+Application Status: CLOSED
+{% endhint %}
 
 ## About
 

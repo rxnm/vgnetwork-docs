@@ -15,7 +15,9 @@ layout:
 
 # LSPD
 
-> Application Status: OPEN
+{% hint style="info" %}
+Application Status: OPEN
+{% endhint %}
 
 ## About
 

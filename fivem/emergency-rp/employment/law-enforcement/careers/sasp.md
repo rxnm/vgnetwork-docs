@@ -16,7 +16,7 @@ layout:
 # SASP
 
 {% hint style="info" %}
-Applications: CLOSED
+Applications Status: CLOSED
 {% endhint %}
 
 ## About
