@@ -25,4 +25,4 @@ Application Status: CLOSED
 
 ## Headquarters
 
-<figure><img src="../../../../../.gitbook/assets/noose_hq.jpg" alt=""><figcaption><p>Nearest Postal:</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/noose_hq.jpg" alt=""><figcaption><p>Substancia Road - Nearest Postal: 9393</p></figcaption></figure>

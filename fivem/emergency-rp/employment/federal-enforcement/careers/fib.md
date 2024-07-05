@@ -25,4 +25,4 @@ Application Status: CLOSED
 
 ## Headquarters
 
-<figure><img src="../../../../../.gitbook/assets/FIB HQ.jpg" alt=""><figcaption><p>Nearest Postal: 8031</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/FIB HQ.jpg" alt=""><figcaption><p>Power Street - Nearest Postal: 8031</p></figcaption></figure>

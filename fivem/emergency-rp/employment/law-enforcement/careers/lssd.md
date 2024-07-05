@@ -15,3 +15,12 @@ layout:
 
 # LSSD
 
+> Application Status: CLOSED
+
+## About
+
+
+
+## Headquarters
+
+<figure><img src="../../../../../.gitbook/assets/LSSD_HQ.jpg" alt=""><figcaption><p>Innocence Boulevard - Nearest Postal: 9148</p></figcaption></figure>

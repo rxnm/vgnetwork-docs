@@ -53,6 +53,7 @@
           * [Stations & Houses](fivem/emergency-rp/employment/fire-and-rescue/careers/sanfire/stations-and-houses.md)
     * [Emergency Medical Services](fivem/emergency-rp/employment/emergency-medical-services/README.md)
       * [Keybinds & Commands](fivem/emergency-rp/employment/emergency-medical-services/keybinds-and-commands.md)
+      * [Hospitals](fivem/emergency-rp/employment/emergency-medical-services/hospitals.md)
       * [Careers](fivem/emergency-rp/employment/emergency-medical-services/careers/README.md)
         * [SAMS](fivem/emergency-rp/employment/emergency-medical-services/careers/sams/README.md)
           * [Depots](fivem/emergency-rp/employment/emergency-medical-services/careers/sams/depots.md)
