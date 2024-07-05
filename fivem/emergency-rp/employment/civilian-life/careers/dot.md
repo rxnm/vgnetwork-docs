@@ -15,6 +15,16 @@ layout:
 
 # DOT
 
+{% hint style="info" %}
+Application Status: OPEN
+{% endhint %}
+
 ## About
 
 **The Department of Transportation is an executive department of the U.S. state of San Andreas, The department is part of the San Andreas State Transportation Agency.**
+
+## Headquarters
+
+
+
+## Stations
