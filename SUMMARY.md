@@ -55,6 +55,7 @@
         * [USAF](fivem/emergency-rp/employment/military/careers/usaf.md)
 * [Vanguard RP](fivem/vanguard-rp/README.md)
   * [Getting Started](fivem/vanguard-rp/getting-started/README.md)
+    * [Character Creation](fivem/vanguard-rp/getting-started/character-creation.md)
     * [Commands](fivem/vanguard-rp/getting-started/chat-commands.md)
     * [Keybinds](fivem/vanguard-rp/getting-started/keybinds.md)
     * [RadialMenu](fivem/vanguard-rp/getting-started/radialmenu.md)
