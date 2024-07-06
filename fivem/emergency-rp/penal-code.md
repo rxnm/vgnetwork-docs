@@ -56,7 +56,7 @@ layout:
 
 ## Section 32 Offences Against Animals Act
 
-<table data-full-width="true"><thead><tr><th>Offence</th><th>CItation</th><th>Misdemeanor</th><th>Felony</th></tr></thead><tbody><tr><td>1.1 Poaching</td><td>Up to $1,000,000</td><td>Up to 2 Years Imprisonment</td><td>Up to 11 Years Imprisonment</td></tr><tr><td>1.2 Hunting in Non-Designated Huting Zone</td><td>Up to $20,000</td><td>N/A</td><td>N/A</td></tr><tr><td>1.3 Hunting Across the Highway</td><td>Up to $20,000</td><td>Up to 3 Months Imprisonment</td><td>N/A</td></tr></tbody></table>
+<table data-full-width="true"><thead><tr><th>Offence</th><th>CItation</th><th>Misdemeanor</th><th>Felony</th></tr></thead><tbody><tr><td>1.1 Poaching</td><td>Up to $1,000,000</td><td>Up to 2 Years Imprisonment</td><td>Up to 11 Years Imprisonment</td></tr><tr><td>1.2 Hunting in Non-Designated Hunting Zone</td><td>Up to $20,000</td><td>N/A</td><td>N/A</td></tr><tr><td>1.3 Hunting Across the Highway</td><td>Up to $20,000</td><td>Up to 3 Months Imprisonment</td><td>N/A</td></tr></tbody></table>
 
 ## Section 54 Safety of Aviation Act
 
