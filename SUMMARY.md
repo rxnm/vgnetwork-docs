@@ -17,6 +17,7 @@
       * [Careers](fivem/emergency-rp/employment/civilian-life/careers/README.md)
         * [DOT](fivem/emergency-rp/employment/civilian-life/careers/dot.md)
         * [Security Services](fivem/emergency-rp/employment/civilian-life/careers/security-services.md)
+        * [Bail Bond Agents](fivem/emergency-rp/employment/civilian-life/careers/bail-bond-agents.md)
         * [Lifeguard](fivem/emergency-rp/employment/civilian-life/careers/lifeguard.md)
         * [Parking Enforcement](fivem/emergency-rp/employment/civilian-life/careers/parking-enforcement.md)
       * [Vehicles](fivem/emergency-rp/employment/civilian-life/vehicles.md)
