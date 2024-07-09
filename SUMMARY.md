@@ -88,6 +88,8 @@
     * [Illegal Activities](fivem/vanguard-rp/ways-to-make-money/illegal-activities/README.md)
       * [Drugs](fivem/vanguard-rp/ways-to-make-money/illegal-activities/drugs.md)
       * [Serial Scratching](fivem/vanguard-rp/ways-to-make-money/illegal-activities/weapon-serial-scratching.md)
+      * [Black Market](fivem/vanguard-rp/ways-to-make-money/illegal-activities/black-market.md)
+      * [Money Wash](fivem/vanguard-rp/ways-to-make-money/illegal-activities/money-wash.md)
   * [Places of Interest](fivem/vanguard-rp/places-of-interest/README.md)
     * [Hardware Store](fivem/vanguard-rp/places-of-interest/hardware-store.md)
     * [Licenses](fivem/vanguard-rp/places-of-interest/licenses.md)
