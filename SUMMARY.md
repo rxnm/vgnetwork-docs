@@ -60,6 +60,7 @@
     * [Commands](fivem/vanguard-rp/getting-started/chat-commands.md)
     * [Keybinds](fivem/vanguard-rp/getting-started/keybinds.md)
     * [RadialMenu](fivem/vanguard-rp/getting-started/radialmenu.md)
+    * [Scenes](fivem/vanguard-rp/getting-started/scenes.md)
   * [Employment](fivem/vanguard-rp/employment/README.md)
     * [Bus Driver](fivem/vanguard-rp/employment/bus-driver.md)
     * [Car Dealer](fivem/vanguard-rp/employment/car-dealer.md)
