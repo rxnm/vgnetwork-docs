@@ -9,11 +9,11 @@ layout:
   outline:
     visible: false
   pagination:
-    visible: false
+    visible: true
 ---
 
 # Getting Started
 
 * [Chat Commands](chat-commands.md)
-* [Keybinds](keybinds.md)
-* [RadialMenu](radialmenu.md)
+* [Keybinds](../../../fivem/vanguard-rp/getting-started/keybinds.md)
+* [RadialMenu](../../../fivem/vanguard-rp/getting-started/radialmenu.md)

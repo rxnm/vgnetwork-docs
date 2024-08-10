@@ -3,6 +3,11 @@
 * [🔠 Welcome!](README.md)
   * [Our Game Servers](readme/our-game-servers.md)
 
+## 🖥️ Game Servers
+
+* [Page](game-servers/page/README.md)
+  * [FiveM](game-servers/page/fivem.md)
+
 ## #️⃣ FiveM
 
 * [Emergency RP](fivem/emergency-rp/README.md)
@@ -55,9 +60,9 @@
         * [USAFSF](fivem/emergency-rp/employment/military/careers/usafsf.md)
         * [USAF](fivem/emergency-rp/employment/military/careers/usaf.md)
 * [Vanguard RP](fivem/vanguard-rp/README.md)
-  * [Getting Started](fivem/vanguard-rp/getting-started/README.md)
+  * [Getting Started](game-servers/fivem/getting-started/README.md)
     * [Character Creation](fivem/vanguard-rp/getting-started/character-creation.md)
-    * [Commands](fivem/vanguard-rp/getting-started/chat-commands.md)
+    * [Commands](game-servers/fivem/getting-started/chat-commands.md)
     * [Keybinds](fivem/vanguard-rp/getting-started/keybinds.md)
     * [RadialMenu](fivem/vanguard-rp/getting-started/radialmenu.md)
     * [Scenes](fivem/vanguard-rp/getting-started/scenes.md)
