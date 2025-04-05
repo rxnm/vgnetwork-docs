@@ -5,8 +5,8 @@
 
 ## 🖥️ Game Servers
 
-* [Page](game-servers/page/README.md)
-  * [FiveM](game-servers/page/fivem.md)
+* [Browse Our Servers](game-servers/browse-our-servers/README.md)
+  * [FiveM](game-servers/browse-our-servers/fivem.md)
 
 ## #️⃣ FiveM
 
