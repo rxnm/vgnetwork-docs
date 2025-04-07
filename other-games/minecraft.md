@@ -38,7 +38,7 @@ Or simply through the CurseForge App, by searching for "Vanguard", and when you 
 
 ### Server Information
 
-When you first open the game, click on (**Multiplayer**) and then (**Add Server**). Under where it says (**Server Name**) you can put what you want here, I will use (**Vanguard Server**) for example, and then on the second line (**Server Address**), you can put our IP (**199.115.73.213:26920**) as shown below.
+When you first open the game, click on (**Multiplayer**) and then (**Add Server**). Under where it says (**Server Name**) you can put what you want here, I will use (**Vanguard SMP**) for example, and then on the second line (**Server Address**), you can put our IP (**199.115.73.213:26920**) as shown below.
 
 <figure><img src="../.gitbook/assets/mine_splash.png" alt=""><figcaption></figcaption></figure>
 
