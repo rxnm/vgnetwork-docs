@@ -38,13 +38,13 @@ Or simply through the CurseForge App, by searching for "Vanguard", and when you 
 
 ### Server Information
 
-When you first open the game, click on (**Multiplayer**) and then (**Add Server**). Under where it says (**Server Name**) you can put what you want here, I will use (**Vanguard SMP**) for example, and then on the second line (**Server Address**), you can put our IP (**199.115.73.213:26920**) as shown below.
+When opening the game, click on (**Multiplayer**) and then (**Add Server**). Under where it says (**Server Name**) you can put what you want here, I will use (**Vanguard SMP**) for example, and then on the second line (**Server Address**), you can put our IP (_**Ask in Discord / WeChat**_) as shown below.
 
 <figure><img src="../.gitbook/assets/mine_splash.png" alt=""><figcaption></figcaption></figure>
 
 ### ModPack Information
 
-This pack is still a work in progress and as such is unfinished. We're constantly working on and looking for mods that would work well with the style that we're trying to achieve while trying to balance out what's already there. At the same time, we're also more than happy to take suggestions from our community.
+This pack is still a work in progress and as such is unfinished. We're constantly working on and looking for mods that would work well with the style we're trying to achieve while balancing out what's already there. At the same time, we're also more than happy to take suggestions from our community.
 
 {% hint style="info" %}
 _When either Minecraft, Forge, or our ModPack are updated we shall mention so within our Discord under the Minecraft discord channel._
